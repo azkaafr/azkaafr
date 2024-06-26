@@ -1,7 +1,5 @@
 # Hi there, I'm [Your Name]! 👋
 
-![Your Banner Image](url-to-your-image)
-
 ## 👨‍💻 About Me
 
 I'm a passionate software developer from [Your Country]. I love to create and contribute to open-source projects, and I'm always eager to learn new technologies and improve my skills.
